@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollViewTipsLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableLayout
+        android:id="@+id/TableLayout01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvIngress"
+                style="@style/infoStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_span="2"
+                android:layout_weight="1"
+                android:singleLine="false"
+                android:text="@string/info_note"
+                android:textColor="#ff0000"
+                android:textSize="18dp" />
+        </TableRow>
+
+
+
+        <TableRow>
+
+            <TextView
+                style="@style/infoStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:singleLine="false"
+                android:text="@string/info_thanks" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvCleaningDot1"
+                style="@style/infoStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:singleLine="false"
+                android:text="@string/info_compiled" />
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                style="@style/infoStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:singleLine="false"
+                android:text="@string/info_developed" />
+        </TableRow>
+
+
+    </TableLayout>
+
+</ScrollView>

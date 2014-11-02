@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Patañjali Yoga Sutras</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Yoga Sūtras of Patañjali</string>
+    <string name="share_subject">Yoga Sūtras of Patañjali</string>
+    <string name="share_title">Share via</string>
+
+    <!-- menu items -->
+    <string name="menu_previous"> Previous </string>
+    <string name="menu_next"> Next </string> 
+    <string name="menu_random"> Random </string>
+    <string name="menu_share"> Share </string>
+    <string name="menu_info"> Info </string>
+    <string name="menu_rate_me"> Rate this app </string>
+    
+    <!-- tab labels -->
+    <string name = "chapter1">Chapter 1</string>
+    <string name = "chapter2">Chapter 2</string>
+    <string name = "chapter3">Chapter 3</string>
+    <string name = "chapter4">Chapter 4</string>
+    
+
+    <!-- info activity -->
+    <string name="info_note">
+        The Yoga Sūtras of Patañjali are 196 Indian sūtras (aphorisms) that constitute the foundational text
+         of Ashtanga Yoga, also called Raja Yoga. In medieval times, Ashtanga Yoga was cast as one of the six
+        orthodox āstika schools of Hindu philosophy. The Yoga Sutras were compiled around 400 CE by Patañjali,
+        taking materials about yoga from older traditions.Together with his commentary they form the Pātañjalayogaśāstra.
+    </string>
+    <string name="info_compiled">
+        The contents are copied from http://www.swamij.com/yoga-sutras-list.htm
+    </string>
+
+    <string name="info_thanks">
+        I am grateful to Ravi Onkari who made me listen the Yoga sutras, explained by Sri Sri Ravi Shankar and thankful to
+        my co-participants Anushuya, Rahul, Raj Karthik, Chandra Shekhar, Karisma, Archana, Shuchi, Rama Krishna, Brajesh and Jaya Chandra.
+    </string>
+
+     <string name="info_developed">
+       Codeveloper : Shuchi
+    </string>
+</resources>
